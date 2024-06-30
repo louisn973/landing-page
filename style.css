@@ -1,0 +1,48 @@
+/*
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    color: lightgrey;
+    padding: 10px;
+    align-items: center;
+    gap: 18px;
+}
+
+.logo {
+    color: white;
+    margin-right: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+
+.content-one {
+    background-color: #1f2937;
+}
+
+.content-two {
+ background-color: white;
+}
+
+.content-three {
+    background-color: lightgrey;
+}
+
+.content-four {
+
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+*/
